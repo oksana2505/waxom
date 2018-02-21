@@ -1,0 +1,12 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background: url("../img/photo.png") no-repeat center top / cover;
+    height: 600px;
+}
+.logos{
+
+}
