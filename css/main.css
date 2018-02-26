@@ -2,11 +2,17 @@ body {
     padding: 0;
     margin: 0;
 }
+div {
+    box-sizing: border-box;
+}
+
 
 header {
     background: url("../img/photo.png") no-repeat center top / cover;
     height: 600px;
 }
-.logos{
-
+.logos
+{
+    margin-top: 40px;
+    margin-left: 376px;
 }
